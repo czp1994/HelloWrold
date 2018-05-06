@@ -1,2 +1,2 @@
 git hello
-origin
+origin   别名
